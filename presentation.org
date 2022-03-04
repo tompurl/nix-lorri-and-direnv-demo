@@ -9,7 +9,7 @@
 - Father, husband and friend who loves building cool things and sharing them with others
 - The opinions expressed here are solely my own and do not express the views or opinions of my employer.
 * Abstract
-#+BEGIN_EXAMPLE
+#+BEGIN_QUOTE
 Setting up a development environment is often harder than it has to be. Every framework expects you to use a very specific dev stack, and often they expect you to use very specific **versions** of each tool in that stack. And this complexity increases exponentially if the project on which you're working expects you to use multiple dependency managers or build tools.
 
 You can use VM's, Docker and the cloud to improve the situation, but these tools have very coarse integration with your favorite text editor or IDE. They can improve "reproducibility", but often decrease velocity and increase debugging time.
@@ -17,7 +17,7 @@ You can use VM's, Docker and the cloud to improve the situation, but these tools
 Wouldn't it be nice to invest a little time into a set of tools that make it possible to "spin up" a development environment in less than a minute? What if the time invested in learning about those tools could be used for multiple languages and frameworks?  And what if these tools worked in a seamless way that integrates transparently with many popular text editors and IDE's?
 
 I hope to be able to deliver on this premise 😊. During this meeting I will be giving a demo on how I use a small set of powerful, cross-platform tools to quickly build out robust, complex development environments for **Python and Clojure projects**. We'll start small, showing you how you can increase velocity with a few simple tools like **nix-shell** and **the nix package manager**. I'll then show how you can truly make environment management simple, automatic, and version-controllable using **lorri** and **direnv**.
-#+END_EXAMPLE
+#+END_QUOTE
 * Notes
 - This presentation will mostly be a series of live demonstrations
 - Questions and comments are welcome!
