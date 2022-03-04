@@ -1,0 +1,14 @@
+#+TITLE: README
+* Overview
+This is the repo for my presentation titled *Using Nix, Direnv, and Lorri To Build Robust, Polyglot Development Environments*. The presentation is written using Emacs [[https://orgmode.org/][org-mode]] and is designed to be viewed using [[https://github.com/takaxp/org-tree-slide][org-tree-slide-mode]].
+
+To view the presentation as intended do the following:
+
+1. Install Emacs and org-tree-slide-mode
+2. Open [[file:presentation.org][presentation.org]]
+3. Press =M-x org-tree-slide-mode=
+
+* Dates Presented
+** 3/5/22
+- The IT Crowd - Naperville
+- https://www.meetup.com/the-it-crowd-org/events/284111643/

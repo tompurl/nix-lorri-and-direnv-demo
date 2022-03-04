@@ -1,4 +1,4 @@
-#+TITLE: Using Nix, Direnv, and Lorri To Build Robust, Polyglot Development Envionments
+#+TITLE: Using Nix, Direnv, and Lorri To Build Robust, Polyglot Development Environments
 #+Email: tom@tompurl.com
 #+Author: Tom Purl
 
